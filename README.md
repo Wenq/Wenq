@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wenq
 - 👀 I’m interested in program and programing
-- 🌱 I’m currently learning vue while i have worked wiht react for many years
+- 🌱 I’m currently learning vue and performance up while i have worked with react for many years
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
